@@ -8,7 +8,7 @@ Fractional CTO and hands-on technical leader for startups that build with AI.
 
 10+ years scaling startups from first commit to exit, including a €80M acquisition. Go on AWS, event-driven and serverless architectures.
 
-Two-time AWS Summit Milano speaker: "Serverless Data Lake Architecture" (2021) and "Real-time Data Processing and ML-driven Decision Making" (2022).
+Two-time AWS Summit speaker: "Serverless Data Lake Architecture" (2021) and "Real-time Data Processing and ML-driven Decision Making" (2022).
 
 Milan area, Italy · remote across EMEA or on site in Milan · Italian and English
 
